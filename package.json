@@ -1,0 +1,21 @@
+{
+  "name": "tspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericlowe25/tspractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericlowe25/tspractice/issues"
+  },
+  "homepage": "https://github.com/ericlowe25/tspractice#readme"
+}
